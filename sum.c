@@ -9,5 +9,8 @@ int main(void)
 	}
 
 	printf("%g\n", a + b);
+    printf("%g\n", a - b);
+    printf("%g\n", a * b);
+    printf("%g\n", a / b);
 	return 0;
 }
